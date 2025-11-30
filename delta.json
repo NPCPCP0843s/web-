@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Simple Lua Script",
+    "description": "A basic Lua script for testing",
+    "icon": "icons/lua.png",
+    "language": "Lua",
+    "file": "scripts/simple.lua"
+  },
+  {
+    "name": "JavaScript Counter",
+    "description": "Click counter example",
+    "icon": "icons/js.png",
+    "language": "JavaScript",
+    "file": "scripts/counter.js"
+  }
+]
